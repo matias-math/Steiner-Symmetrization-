@@ -6,9 +6,9 @@ On run, the user will be asked for the inequality that defines the solution set 
 __Example:__
 >--- Steiner Symmetrization - 3D Visual Representation ---
 >
->Define Set A (Implicit Equation): x**2+y**2+(z/8)**2-1
+>Define Set A (Implicit Equation): ```x**2+y**2+(z/8)**2-1```
 >
->Vector a (Direction): 1,1,-1
+>Vector a (Direction): ```1,1,-1```
 >
 >Analyzing fibers Lb^a in a fixed domain of size [-10.0, 10.0]...
 
