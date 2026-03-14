@@ -4,7 +4,7 @@ A simple 3D visualization of the Steiner Symmetrization for (inequality) solutio
 ## Usage
 On run, the user will be asked for the inequality that defines the solution set and the vector that is ortogonal to the symmetrization plane.
 __Example:__
->--- Steiner Symmetrization Visual Representation ---
+>--- Steiner Symmetrization - 3D Visual Representation ---
 >
 >Define Set A (Implicit Equation): x**2+y**2+(z/8)**2-1
 >
