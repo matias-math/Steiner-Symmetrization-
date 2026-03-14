@@ -1,0 +1,10 @@
+
+TORUS = (np.sqrt(x**2 + y**2) - 0.7)**2 + z**2 - 0.2**2
+
+SLANTED ELLIPSOID = (x + 0.5*z)**2 + (y - 0.2*z)**2 + (1.5*z)**2 - 1
+
+DOUBLE SPHERE = np.minimum((x-0.6)**2 + y**2 + z**2 - 0.3**2, (x+0.6)**2 + y**2 + z**2 - 0.3**2)
+
+OFFSET CUBE = np.maximum(np.maximum(np.abs(x-0.8), np.abs(y-0.2)), np.abs(z+0.4)) - 0.5
+
+CONE = np.sqrt(x**2 + y**2) - (1 - z) * 0.5
