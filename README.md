@@ -12,6 +12,8 @@ __Example:__
 >
 >Analyzing fibers Lb^a in a fixed domain of size [-10.0, 10.0]...
 
+(/Captura de ecrã 2026-03-14, às 12.48.11.png)
+
 ## Changing the quality of the representation
 Since the visualization is voxel based, it ends up being a rough approximation of the actual set. One can change the quality of this approximation by changing the following variable values.
 ```
