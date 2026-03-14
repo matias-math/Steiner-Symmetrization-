@@ -19,3 +19,5 @@ limit = 10.0 # Domain Limit
 res = 400 # Visual resolution for a smooth manifold
 map_res = 300 # Makes the symmetrization more accurate relative to the quality of the original object, defined above
 ```
+## Test Inequalities 
+Some inequalities are provided in the file 
