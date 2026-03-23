@@ -1,4 +1,4 @@
-# Steiner-Symmetrization
+# Steiner Symmetrization
 A simple 3D visualization of the Steiner Symmetrization for (inequality) solution sets, voxel based.
 ## Requisites 
 ```
