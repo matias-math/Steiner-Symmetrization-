@@ -1,6 +1,11 @@
 # Steiner-Symmetrization
 A simple 3D visualization of the Steiner Symmetrization for (inequality) solution sets, voxel based.
-
+## Requisites 
+```
+scipy 
+pyvista
+numpy
+```
 ## Usage
 On run, the user will be asked for the inequality that defines the solution set and the vector that is ortogonal to the symmetrization plane.
 __Example:__
