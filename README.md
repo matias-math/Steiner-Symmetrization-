@@ -8,6 +8,7 @@ numpy
 ```
 ## Usage
 On run, the user will be asked for the inequality that defines the solution set and the vector that is ortogonal to the symmetrization plane.
+
 __Example:__
 >--- Steiner Symmetrization - 3D Visual Representation ---
 >
